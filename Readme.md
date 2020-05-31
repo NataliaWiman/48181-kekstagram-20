@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Natalia Wiman](https://up.htmlacademy.ru/javascript/20/user/48181).
-* Наставник: `Неизвестно`.
+- Студент: [Natalia Wiman](https://up.htmlacademy.ru/javascript/20/user/48181).
+- Наставник: [Aleksandr Barylo](https://htmlacademy.ru/profile/id1460555).
 
 ---
 
